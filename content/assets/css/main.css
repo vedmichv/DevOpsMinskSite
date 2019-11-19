@@ -819,6 +819,14 @@ a.back-to-top:hover, a.back-to-top:focus {
   color: #3B5998;
 }
 
+.social .telegram:hover {
+  color: #fb3958;
+}
+
+.social .linkedin:hover {
+  color: #3B5998;
+}
+
 .social .twitter:hover {
   color: #00aced;
 }
